@@ -1,2 +1,7 @@
 # TechBlog
-깃헙 정적 페이지 블로그
+
+## 프로젝트 소개
+- GitHub Pages를 활용한 기술 블로그
+
+- [기술 블로그](https://jinseonghyun.github.io/TechBlog/)
+
